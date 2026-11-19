@@ -1,0 +1,2 @@
+# cnn_pratice
+hi
